@@ -1,0 +1,4 @@
+my:
+  app:
+    model: NEW
+    version: 3.5

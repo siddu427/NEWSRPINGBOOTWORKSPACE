@@ -1,0 +1,5 @@
+my:
+  app:
+    code: AA
+    id: 3
+    version: 5.5

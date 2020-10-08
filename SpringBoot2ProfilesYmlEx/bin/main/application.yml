@@ -1,0 +1,16 @@
+my:
+ db: COMMON-DBSS
+ 
+---
+spring:
+  profiles: dev
+    
+my:
+ db: DEV-DBSS
+ 
+---
+spring:
+  profiles: prod
+    
+my:
+ db: PROD-DBSS
